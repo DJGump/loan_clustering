@@ -1,5 +1,5 @@
 # Cluster Analysis of Defaulted Loans
-Clustering defaulted small business loans to better understand how to help struggling businesses. Data is from the Small Business Administration, and is included in this repo. [Kaggle link here](https://www.kaggle.com/mirbektoktogaraev/should-this-loan-be-approved-or-denied?select=SBAnational.csv). Several clustering techniques, including DBSCAN, Agglomertaive Cluserting, and K-medoids wer compared, with K-medoids chosen as best suited to the data. 
+Clustering defaulted small business loans to better understand how to help struggling businesses. Data is from the Small Business Administration, and is included in this repo. [Kaggle link here](https://www.kaggle.com/mirbektoktogaraev/should-this-loan-be-approved-or-denied?select=SBAnational.csv). Several clustering techniques, including DBSCAN, Agglomertaive Clustering, and K-medoids wer compared, with K-medoids chosen as best suited to the data. 
 <hr>
 
 ### Findings
