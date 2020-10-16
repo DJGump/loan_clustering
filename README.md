@@ -3,7 +3,7 @@ Clustering defaulted small business loans to better understand how to help strug
 <hr>
 
 ### Findings
-Three clusters were identified. By characterizing different businesses, more targeted assistance stratgeies can be applied. Clusters separated on loan amount and term; existing/new business and number of jobs created; and bank size and if the bank was out-of-state relative to the business. Larger, longer loans are interpreted as less risky. It would be useful to know business age, and not just new or existing status. Bank size and state are interpreted as a measure of difficulty finding credit. It is assumed samller, in state banks can take on less rosk than larger, out-of-state banks.
+Three clusters were identified. By characterizing different businesses, more targeted assistance stratgeies can be applied. Clusters separated on loan amount and term; existing/new business and number of jobs created; and bank size and if the bank was out-of-state relative to the business. Larger, longer loans are interpreted as less risky. It would be useful to know business age, and not just new or existing status. Bank size and state are interpreted as a measure of difficulty finding credit. It is assumed samller, in-state banks can take on less risk than larger, out-of-state banks.
 
 <img src='figures/clusters.png'>
 
